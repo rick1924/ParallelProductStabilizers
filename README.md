@@ -16,4 +16,4 @@ The software used for this project is [**MulticoreBSP**](http://www.multicorebsp
 \[2\] *Bisseling, R. H. (2020). Parallel Scientific Computation: A Structured Approach Using BSP. Oxford University Press, USA.*
 
 ## License
-This code and the MulticoreBSP software are both licensed under the GNU Lesser General Public License 3.0 - see [LICENSE.md](LICENSE.md) for more details.
+This code and the MulticoreBSP software are both licensed under the GNU Lesser General Public License 3.0 - see [LICENSE](LICENSE) for more details.
