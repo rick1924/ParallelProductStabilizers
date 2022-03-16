@@ -7,7 +7,7 @@ More information about the theory of stabilizer operators, methods and results c
 
 ## Authors
 * Ricardo Rivera Cardoso
-* Andi Lin
+* Lin Andi
 
 ## Software
 The software used for this project is [**MulticoreBSP**](http://www.multicorebsp.com/download/) \[1\] and is complemented by the book *Parallel Scientific Computation: A Structured Approach Using BSP (2nd edition)* \[2\], which discusses the bases of parallel computation and applies these to many examples. Finally, [BSPedupack](https://webspace.science.uu.nl/~bisse101/Book2/psc2.html) provides beginner-friendly parallel algorithms that are implemented using this software.
